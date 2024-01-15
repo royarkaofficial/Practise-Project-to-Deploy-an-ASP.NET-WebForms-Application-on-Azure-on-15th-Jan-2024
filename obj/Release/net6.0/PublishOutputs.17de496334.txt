@@ -1,0 +1,7 @@
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.exe
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.dll
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.deps.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.runtimeconfig.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.pdb
